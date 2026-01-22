@@ -1,0 +1,38 @@
+# python
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+*.egg
+
+# django
+db.sqlite3
+staticfiles/
+media/
+
+# env
+.env
+*.env
+!.env.example
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# docker
+postgres_data/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# coverage
+htmlcov/
+.coverage
+VIDEO_SCRIPT.md
+SETUP_INSTRUCTIONS.md
+PUSH_SCRIPT.sh
+PUSH_SCRIPT.bat
