@@ -205,7 +205,7 @@ python manage.py test
 - [GitHub Repository](https://github.com/Ripcode1/ecommerce-api)
 - [Live API](https://ecommerce-api-wp9c.onrender.com/api/docs/)
 - [ERD Diagram](https://drive.google.com/file/d/1Pl60LKfmU1BrydU6BZLjd9UP7SHJA-WD/view)
-- [Presentation Deck](https://docs.google.com/presentation/d/1sDoLRMXiQMMVVr5sriO4t66bm4ONCzQ9/edit?usp=sharing&ouid=105393135756582502923&rtpof=true&sd=true)
+- [Presentation Deck](https://docs.google.com/presentation/d/1BmvsAYXubyXHGIZal3YeksqxXIpeo1Cb/edit?slide=id.p1#slide=id.p1)
 
 ---
 
